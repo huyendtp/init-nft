@@ -1,0 +1,1 @@
+export const NFTToken = "0xF76952bF82C53Ab16a88B35ffDf310C1C9A2f7cd"
