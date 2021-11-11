@@ -19,9 +19,9 @@
 7. Get APIKey to config ethescan in hardhat.config.js follow doc at [here](https://docs.etherscan.io/getting-started/viewing-api-usage-statistics)
 ## Implement
 1. Define contracts in folder `contracts`
-    - Token
-    - Market
-    - NFT
+    - Token.sol
+    - Market.sol
+    - NFT.sol
 2. Define scripts to deploy in folder `scripts`
 3. Compile contracts: `npx hardhat compile`
 4. Starts a JSON-RPC server on top of Hardhat Network: `npx hardhat node`
